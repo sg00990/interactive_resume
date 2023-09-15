@@ -12,13 +12,13 @@ I uploaded data from my resume to Google Sheets using the following columns: exp
 ## Design
 I used Tableau Public to visualize the dataset that I created in Google Sheets. There are four different categories featured on my interactive resume.
 
-#### Interests
+**Interests**
 I created three circle charts that display the interest and description when hovered on. The color depends on the experience.
-#### Experience
+**Experience**
 My experiences are displayed on a  Gantt bar chart. Users can sort between projects, work, school, or all. It shows the duration that I participated in each of those activities.
-#### Certifications
+**Certifications**
 My certifications are created the same way as interest; there's just more of them!
-#### Skills
+**Skills**
 I created a circular bar chart to display skills. Each skill show the name, date I started learning, and description when hovered on.
 
 
