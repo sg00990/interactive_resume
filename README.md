@@ -22,6 +22,6 @@ My certifications are created the same way as interest; there's just more of the
 I created a circular bar chart to display skills. Each skill show the name, date I started learning, and description when hovered on.
 
 
-To view it on Tableau, click [here](https://public.tableau.com/views/SarahGraddy-InteractiveResume/InteractiveResume?:language=en-US&:display_count=n&:origin=viz_share_link).
+### To view it on Tableau, click [here](https://public.tableau.com/views/SarahGraddy-InteractiveResume/InteractiveResume?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 
